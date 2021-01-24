@@ -1,9 +1,10 @@
-Запуск сервера
 ### node index.js
+Запуск сервера
 
+-------------------
 
-Запуск клиента
 ### npm run start
+Запуск клиента
 
 
 In the project directory, you can run:
